@@ -42,6 +42,9 @@ wwwroot/
 *.VisualState.xml
 TestResult.xml
 
+
+*.class
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
